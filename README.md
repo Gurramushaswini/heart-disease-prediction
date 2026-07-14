@@ -46,11 +46,13 @@ This project predicts the presence of heart disease using machine learning techn
 LightGBM (LGBM) achieved the highest performance and was selected as the final model for heart disease prediction.
 
 ## 📁 Project Structure
-```
+
+```text
 Heart-Disease-Prediction/
-│── heart disease prediction project.ipynb
-│── heart.csv
-│── README.md
+│── README.md                              # Project overview and instructions
+│── heart.csv                              # Heart Disease dataset
+│── Heart_Disease_Prediction.ipynb         # Jupyter Notebook containing the project code
+│── Heart_Disease_Prediction_Doc           # Project documentation
 ```
 
 ## 👩‍💻 Author
